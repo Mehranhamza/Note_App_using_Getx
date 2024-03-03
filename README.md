@@ -1,16 +1,15 @@
-# note_app_using_getx
+# Note App using Getx State Management
 
-A new Flutter project.
+## Task 1
 
-## Getting Started
+# Main Screen
 
-This project is a starting point for a Flutter application.
+![Screenshot (34)](https://github.com/Mehranhamza/Note_App_using_Getx/assets/110326892/01849797-abd5-469b-94f7-67bea830d5af)
 
-A few resources to get you started if this is your first Flutter project:
+# Update Data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot (37)](https://github.com/Mehranhamza/Note_App_using_Getx/assets/110326892/d9124d2f-3a45-4581-8bfa-1aa45f7e804b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Delete Data
+
+![Screenshot (35)](https://github.com/Mehranhamza/Note_App_using_Getx/assets/110326892/ca94aa68-c0ef-4dd1-ab4a-b36ad825fc93)
